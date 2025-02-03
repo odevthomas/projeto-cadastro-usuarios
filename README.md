@@ -1,7 +1,6 @@
 
 # Sistema de Cadastro de Usuários
 
-![257shots_so](https://github.com/user-attachments/assets/0a197e38-73aa-4cc7-aee9-72563b9ae0b2)
 
 Ao preencher os campos do formulário de cadastro e clicar em "Cadastrar", um novo usuário é adicionado à lista. A pesquisa funciona em tempo real, filtrando os resultados à medida que você digita no campo de pesquisa.
 
